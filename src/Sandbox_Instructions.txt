@@ -1,0 +1,4 @@
+press "a" to add viruses
+press "s" to subtract viruses
+press "1" to add turrets
+make the protagonist stand on a turret and press "d" to delete the turrettest
